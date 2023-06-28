@@ -1,0 +1,4 @@
+// API- Application Programming Interface any softwae intermediary that allows two applications to communiCATE WITH EACH OTHER 
+// useEffect- used in getting info
+//useState- used to store the info
+// map... used to map through and display the info on the browser
